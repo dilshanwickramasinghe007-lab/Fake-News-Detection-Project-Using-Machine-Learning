@@ -1,6 +1,6 @@
 #Fake News Detection System (Machine Learning)
 
-This project is a hands-on implementation of a Fake News Detection System using Python and multiple machine learning algorithms. It follows a complete data science pipeline—from data preprocessing to model evaluation—to classify news articles as fake or real.
+This project is a hands-on implementation of a Fake News Detection System using Python and multiple machine learning algorithms. It follows a complete data science pipeline from data preprocessing to model evaluation to classify news articles as fake or real.
 
 Project Overview:
 
